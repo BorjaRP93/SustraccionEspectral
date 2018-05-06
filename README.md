@@ -55,7 +55,7 @@ Matlab file that implements the spectral subtraction algorithm detailed in the a
 + **SustraccionEspectral_2.m:** implements the spectral subtraction including elimination of musical noise and attenuation of the frames without vocal activity.
 + **wavread.m**: file that implements the old wavread function of Matlab.
 + **wavwrite.m**: file that implements the old wavwrite function of Matlab.
-+ **nisy.wav**: sample file of a voice signal with Gray noise with a signal-to-noise ratio (SNR) of 0dB.
++ **noisy.wav**: sample file of a voice signal with Gray noise with a signal-to-noise ratio (SNR) of 0dB.
 + **clean.wav**: sample file that contains the cleaned signal once passed by the spectral subtraction algorithm.
 
 ## Use
